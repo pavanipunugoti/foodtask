@@ -1,0 +1,163 @@
+*{
+    width: 100%;
+    /* height: 100%; */
+    box-sizing: border-box;
+}
+.heading{
+    position: fixed;
+    z-index: 1000;
+    margin-top: 0px;
+    top:0;
+    left: 0;
+    display: flex;
+    /* margin-left:150px ; */
+    /* margin-bottom: 150px; */
+}
+.heading p{
+    margin-left: 250px;
+}
+.main{
+    position: relative;
+    margin-top: 150px;
+}
+
+.heading{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-size: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+    background-color: beige;
+}
+.section1{
+    margin-left: 60px;
+    
+
+}
+.h1 img{
+    height: 380px;
+    width: 250px;
+}
+
+
+.h1{
+    display: inline-block;
+    height: auto;
+    width: 280px;
+    margin-left: 5px;
+     text-align: center;
+    
+}
+
+.section2{
+    margin-left: 60px;
+}
+.h2 img{
+    height: 380px;
+    width: 250px;
+}
+
+
+.h2{
+    display: inline-block;
+    height: auto;
+    width: 280px;
+    margin-left: 5px;
+ 
+    text-align: center;
+    
+}
+
+.hd{
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.pagination{
+    text-align: center;
+    position: relative;
+    height: 30px;
+    
+}
+p span{
+    padding: 10px;
+    height: 10px;
+    width: 15px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.ab_me{
+    margin-top: 10px;
+    
+    text-align: center;
+    margin-top: 10px;
+}
+.ab_me p{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    height: 30px;
+}
+.ab_me img{
+    text-align: center;
+    height: 500px;
+    width: 800px;
+}
+
+.its{
+    text-align: center;
+    width: 80%;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.fo,.bl,.po{
+    /* display: inline-block; */
+    width: 25%;
+    margin-left: 30px;
+}
+
+.footer{
+    display: flex;
+    margin-left: 100px;
+    
+
+}
+.im_1{
+    display: flex;
+
+}
+.im_1 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+}
+.im_1 p{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+
+.footer{
+    margin-top: 150px;
+}
+.tra span{
+    font-weight: lighter;
+    font-size: 15px;
+    background-color: gray;
+    color: white;
+    height: 20px;
+    margin-left: 5px;
+    padding:5px;
+    padding-bottom: 10px;
+    display:inline-block ;
+    width: 80px;
+    margin-bottom: 5px;
+    text-align: center;
+
+
+}
